@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Rebeca Velis Ventura',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'tvanlaar',
+    linkedin: '',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -74,16 +74,16 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: 'https://rvelis584.github.io/',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
+    email: 'rvelisventura@csustan.edu',
   },
   resume: {
     fileUrl:
       'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
+    'PCR',
     'Laravel',
     'JavaScript',
     'React.js',
@@ -124,10 +124,10 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'CSU Stanislaus',
+      degree: 'Bachelors of Science in Biological Sciences',
+      from: '2022',
+      to: 'Present',
     },
     {
       institution: 'Institution Name',
