@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Interpretation of paper results and conservation significance',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/rvelis584/Biol4810/raw/main/BiologyConervationProject.jpg',
           link: 'https://example.com',
         },
         {
