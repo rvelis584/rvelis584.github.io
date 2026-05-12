@@ -11,7 +11,7 @@ const CONFIG = {
    */
   base: '/',
   projects: {
-    github: {
+    github: { 
       display: true, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
@@ -33,9 +33,9 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Biology Conservation',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Interpretation of paper results and conservation significance',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
